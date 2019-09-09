@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "prueba",
+    "description": "",
+    "home_page_url": "https://github.com/ghraul/ghraul.github.io",
+    "feed_url": "https://github.com/ghraul/ghraul.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "RGH"
+    },
+    "items": [
+        {
+            "id": "https://github.com/ghraul/ghraul.github.io/post-de-prueba.html",
+            "url": "https://github.com/ghraul/ghraul.github.io/post-de-prueba.html",
+            "title": "Post de prueba",
+            "summary": "pruebecilla",
+            "content_html": "pruebecilla",
+            "author": {
+                "name": "RGH"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-10T00:38:04+02:00",
+            "date_modified": "2019-09-10T00:38:04+02:00"
+        }
+    ]
+}
